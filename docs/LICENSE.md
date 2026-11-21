@@ -1,4 +1,3 @@
-### This work © 2026 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
 # Attribution-Noncommercial-ShareAlike 4.0 International
 
 Canonical URL:  https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -31,3 +30,5 @@ permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For
 example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+**This work © 2026 by Charles J McDonald is licensed under CC BY-NC-SA 4.0**
